@@ -21,8 +21,8 @@ This repository contains a collection of daily machine learning projects. Each d
 | Day | Project Title                     | Description                                                                                                                                                    |
 |-----|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Iris Flower Classification        | The Iris dataset by Fisher (1936) is a classic 150-instance tabular dataset with 4 features, used for classification of three iris plant classes.              |
-| 2   | Titanic Survival Prediction       | [Short description of the project.]                          |
-| 3   | [Project Title]                   | [Short description of the project.]                          |
+| 2   | Titanic Survival Prediction       | [TBA]                          |
+| 3   | [TBA]                   | [TBA]                          |
 | ... | ...                               | ...                                                          |
 
 Each project will have its own folder containing the necessary code, datasets, and a detailed explanation of the problem and solution.
